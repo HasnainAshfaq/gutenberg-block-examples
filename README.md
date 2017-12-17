@@ -15,8 +15,13 @@ https://github.com/ahmadawais/Gutenberg-Boilerplate
  3. Find this block under 'common' section of gutenberg blocks.
 
 
-You can build a real nice team page using this block, happy coding!
 
 ![alt text](https://raw.githubusercontent.com/HasnainAshfaq/gutenberg-block-examples/master/block-our-team/picture.png)
+
+Find Block: Team Member 
+
 ![alt text](https://raw.githubusercontent.com/HasnainAshfaq/gutenberg-block-examples/master/block-our-team/picture1.png)
+
+You can build a real nice team page using this block, happy coding!
+
 
