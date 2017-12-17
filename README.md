@@ -16,3 +16,5 @@ https://github.com/ahmadawais/Gutenberg-Boilerplate
 
 
 You can build a real nice team page using this block, happy coding!
+
+![alt text](https://raw.githubusercontent.com//HasnainAshfaq/gutenberg-block-examples/blob/master/block-our-team/picture.png)
