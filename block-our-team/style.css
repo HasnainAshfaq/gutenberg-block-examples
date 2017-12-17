@@ -1,0 +1,42 @@
+.wp-block-gb-block-our-team {
+    display: inline-block;
+    max-width: 250px;
+    background-color: #43a047c7;
+    padding: 20px 20px 0px 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.wp-block-gb-block-our-team.member-image {
+    background: #43a047c7;
+    float: right;
+    width: 50%;
+    min-height: 100px;
+    text-align: center;
+}
+
+.wp-block-gb-block-our-team .member-image button {
+    margin-top: 30px;
+}
+
+.wp-block-gb-block-our-team .member-image button.image-button {
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.wp-block-gb-block-our-team .member-image img {
+    border-radius: 100%;
+    display: block;
+    z-index: 1;
+    position: relative;
+}
+
+.wp-block-gb-block-our-team p {
+    text-align: center;
+    color: #fff;
+    margin-top: 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
